@@ -1,0 +1,11 @@
+header {
+  background-color: hotpink;
+  display: flex;
+  width: 100%;
+  border-bottom-left-radius: 1.5rem;
+  border-bottom-right-radius: 1.5rem;
+}
+
+header > div {
+  padding: 1.5rem;
+}
