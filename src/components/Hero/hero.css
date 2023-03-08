@@ -1,4 +1,8 @@
 .hero{
-    background-color: blue;
+    background-color: darksalmon;
     height: 15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }

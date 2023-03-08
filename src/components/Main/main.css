@@ -1,4 +1,24 @@
-.main{
-    background-color: bisque;
-    height: 20rem;
+.main {
+  height: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.main.maroon {
+  background-color: maroon;
+}
+.main.blue {
+  background-color: lightskyblue;
+}
+.main.green {
+    background-color: darkgreen;
+}
+.main.violet {
+    background-color: violet;
+}
+.main.gray {
+    background-color: lightslategray;
+
 }
